@@ -1,8 +1,8 @@
 @echo off
 SETLOCAL EnableDelayedExpansion
  
-set _PELICAN=$pelican
-set _PELICANOPTS=$pelicanopts
+set _PELICAN=pelican
+set _PELICANOPTS=
  
 set _BASEDIR=%cd%
 set _INPUTDIR=%_BASEDIR%/content

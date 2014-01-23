@@ -1,18 +1,16 @@
 Title: EVA--Open-source Imaging & Evaluation
-Slug: promote
+Slug: frontpage
 Lang: en
 
 # A compact platform for imaging and evaluation
 Open software and hardware architecture for general purpose inspection system
 
 ## Basic philosophy of EVA project
-
 * Extensible
 * Open
 * Compact
 * Intuitive
 ## Features
-
 * Data acquisition and device control through driver adapter framework
 * Extensible plugins for signal processing and evaluation
 * Full featured image processing tools
@@ -23,6 +21,13 @@ Open software and hardware architecture for general purpose inspection system
 * Multi-axis mechanical arm control
 * Active and Passive sychronorisation modes suitable for different acquisition speed
 * Modulized hardware
+
+## Video Demonstration
+Here is a video to introduce this project and some demonstration:
+<div class="geoSelect">
+	<iframe geo=China width=100% height=498 src=http://player.youku.com/embed/XNjUxNzE0NzMy frameborder=0 allowfullscreen> </iframe>
+	<iframe width=100% height=498 src=//www.youtube.com/embed/pN5v-2BKSbE frameborder=0 allowfullscreen> </iframe>
+</div>
 
 ## Demo hardwares (devices)
  * Ultrasonic Imaging System (completed)

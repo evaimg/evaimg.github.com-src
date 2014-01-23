@@ -30,21 +30,27 @@ DISQUS_SITENAME = 'evaimg'
 GOOGLE_ANALYTICS='UA-47365192-1'
 
 NDE_CATEGORIES = (
-            
-            ('Bioimaging','pages/bioimaging.html'),
-            ('-','-'),
-            ('Ultrasonic','pages/ultrasonic.html'),
-            ('Radiography', 'pages/radiography.html'),
-            ('Eddy-current', 'pages/eddycurrent.html'),
-            ('-','-'),
-            
-            
+                ('Bioimaging','pages/bioimaging.html'),
+                ('-','-'),
+                ('Ultrasonic','pages/ultrasonic.html'),
+                ('Radiography', 'pages/radiography.html'),
+                ('Eddy-current', 'pages/eddycurrent.html'),
+                ('-','-'),
             )
-MENUITEMS =(('Home',''),
+SUPPORT_CATEGORIES = (
+                ('IRC','pages/irc.html'),
+                ('-','-'),
+                ('Mail List','#'),
+                ('Dev Mail List', '#'),
+                ('-','-'),
+            )            
+MENUITEMS =(#('Home',''),
             ('Blog','blog.html'),
             ('Wiki','http://wiki.evaimg.org'),
+            ('Gallery','pages/gallery.html'),
             #('Categories_dropdown', NDE_CATEGORIES ),
             ('Downloads','pages/downloads.html'),
+            ('Support_dropdown', SUPPORT_CATEGORIES ),
             ('About','pages/about.html'),
             )
 

@@ -51,8 +51,6 @@ IF "%_DEF%"=="help" (
 )
  
 echo No or incorrect argument given, please review your input or type
-echo 'pmake help' for help.
-GOTO :end
  
 :help
 echo Batch file for a pelican Web site
@@ -71,7 +69,7 @@ echo    upload ssh                  upload the web site via SSH
 echo    upload rsync                upload the web site via rsync+ssh
 echo    upload dropbox              upload the web site via Dropbox
 echo    upload ftp                  upload the web site via FTP
-echo    upload github               upload the web site via gh-pages
+echo    upload github               upload the web site (evaimg.github.com)
 echo.
 GOTO :end
  

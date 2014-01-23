@@ -38,7 +38,7 @@ help:
 	@echo '   dropbox_upload                   upload the web site via Dropbox    '
 	@echo '   ftp_upload                       upload the web site via FTP        '
 	@echo '   s3_upload                        upload the web site via S3         '
-	@echo '   github                           upload the web site via gh-pages   '
+	@echo '   github                           upload the web site ( to evaimg.github.com)'
 	@echo '                                                                       '
 
 

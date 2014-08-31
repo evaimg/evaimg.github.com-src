@@ -2,6 +2,11 @@ Title: Downloads
 Slug: downloads
 Lang: en
 
+## Icy for EVA
+Customized version of Icy, with plugins and workspaces installed:
+[Icy for EVA](https://github.com/evaimg/Icy-App/archive/master.zip)
+
+
 ## Source Code
 All the source code of EVA project is available on github: [EVA project](https://github.com/oeway/EVA/).
 

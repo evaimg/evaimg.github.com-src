@@ -67,7 +67,7 @@ CAROUSELITEMS = (
 # static paths will be copied without parsing their contents
 STATIC_PATHS = [
                 'extra/robots.txt',
-                'CNAME',
+                'extra/CNAME',
                 'images'
                 ]
 EXTRA_PATH_METADATA = {

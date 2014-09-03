@@ -29,3 +29,5 @@ If you are a developer, you can also downlaod the jar file (often with source co
 * [Waveform Envelop Detector](http://icy.bioimageanalysis.org/plugin/Waveform_Envelope_Detector)
 
 * [Rapid Learning](http://icy.bioimageanalysis.org/plugin/Rapid_Learning)
+
+* [Image to workbook] http://icy.bioimageanalysis.org/plugin/Image_to_Workbook

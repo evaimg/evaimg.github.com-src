@@ -19,3 +19,8 @@ Real-time Ultrasound Signal Processing:
 	<iframe width=100% height=498 src=//www.youtube.com/embed/S4-GQBUB88g frameborder=0 allowfullscreen> </iframe>
 </div>
 
+CT 3D Visualization:
+<div class="geoSelect">
+	<iframe geo=China width=100% height=498 src=http://player.youku.com/embed/XNzcyMTgzNjg4 frameborder=0 allowfullscreen> </iframe>
+	<iframe width=100% height=498 src=//www.youtube.com/embed/frDYPjv9d5M frameborder=0 allowfullscreen> </iframe>
+</div>
